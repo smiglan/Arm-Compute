@@ -1,7 +1,6 @@
 # Arm-Compute
 This repository contains code for utilizing Arm-Compute library for convolution and gaussian functions and converting a C++ array to arm compute tensor object.
-
-Profiling Results 
+<h1> Profiling Results </h1> 
 
 Number of iterations: 1000\
 Library: OpenCV
